@@ -12,7 +12,7 @@ Usage:
 ```
 package main
 
-import "github.build.ge.com/210019484/rangespec"
+import "github.com/mandolyte/rangespec"
 import "log"
 import "fmt"
 

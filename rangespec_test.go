@@ -2,7 +2,7 @@ package rangespec
 
 import (
 	"testing"
-  "math"
+	"math"
 	"fmt"
 )
 
